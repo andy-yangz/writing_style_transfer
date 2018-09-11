@@ -2,7 +2,7 @@
 
 Same as recently very hot topic **neural style transfer,** I come up with an idea that can we transfer the **writing style** of text. Every writer have their whole writing style, just like every artist have their own style. 
 
-Sometime, we can see some guy write a same meaning sentence to different writing style to make fun, like write to Bible style.
+Sometime, we can see some guys write a same meaning sentence to different writing style to make fun, like write to Bible style.
 
 Take a another example from Wikipedia **[Writing Style](https://www.wikiwand.com/en/Writing_style#/CITEREFStrunkWhite1979),**  
 
